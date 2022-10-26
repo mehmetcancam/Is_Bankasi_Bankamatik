@@ -5,9 +5,9 @@ import java.sql.*;
 
 public class DBConnetcor {
 
-    public static final String url ="jdbc:postgresql://localhost/BANK_IS";
-    public static final String username ="postgres";
-    public static final String password="memoli123456";
+    public static final String url ="-----------------";
+    public static final String username ="-----------";
+    public static final String password="--------------";
 
 
     private Connection connection = null;
